@@ -1,0 +1,31 @@
+FOLDS (each is the test set of one round)
+  fold 0:   414 img (P  298 / N 116) | 199 samples (P  93 / N 106)
+  fold 1:   416 img (P  300 / N 116) | 200 samples (P  94 / N 106)
+  fold 2:   415 img (P  299 / N 116) | 200 samples (P  94 / N 106)
+  fold 3:   414 img (P  298 / N 116) | 199 samples (P  94 / N 105)
+  fold 4:   414 img (P  297 / N 117) | 200 samples (P  93 / N 107)
+
+ROUNDS (train / validation / test)
+  round 0
+    train  1392 img (P 1001 / N 391) | 666 samples (P 313 / N 353)
+    val     267 img (P  193 / N  74) | 133 samples (P  62 / N  71)
+    test    414 img (P  298 / N 116) | 199 samples (P  93 / N 106)
+  round 1
+    train  1382 img (P  998 / N 384) | 665 samples (P 312 / N 353)
+    val     275 img (P  194 / N  81) | 133 samples (P  62 / N  71)
+    test    416 img (P  300 / N 116) | 200 samples (P  94 / N 106)
+  round 2
+    train  1379 img (P  993 / N 386) | 665 samples (P 312 / N 353)
+    val     279 img (P  200 / N  79) | 133 samples (P  62 / N  71)
+    test    415 img (P  299 / N 116) | 200 samples (P  94 / N 106)
+  round 3
+    train  1379 img (P  997 / N 382) | 666 samples (P 312 / N 354)
+    val     280 img (P  197 / N  83) | 133 samples (P  62 / N  71)
+    test    414 img (P  298 / N 116) | 199 samples (P  94 / N 105)
+  round 4
+    train  1381 img (P  995 / N 386) | 666 samples (P 313 / N 353)
+    val     278 img (P  200 / N  78) | 132 samples (P  62 / N  70)
+    test    414 img (P  297 / N 117) | 200 samples (P  93 / N 107)
+
+Checks passed: every patient in exactly one fold; no patient shared between train/val/test in any round.
+Zip for Drive    : AIDA_processed.zip  (760 MB, 2073 images)

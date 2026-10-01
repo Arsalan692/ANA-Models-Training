@@ -1,0 +1,40 @@
+Brightness summary (green_mean):
+label             Negative  Positive
+green_mean count     581.0    1492.0
+           mean       21.0      45.4
+           std         7.7      18.3
+           min         2.1       7.2
+           25%        15.1      32.3
+           50%        20.6      42.4
+           75%        26.2      55.0
+           max        41.2     122.8
+green_p99  count     581.0    1492.0
+           mean       37.0     117.5
+           std        14.4      57.7
+           min         4.0      20.0
+           25%        28.0      70.0
+           50%        34.0     104.0
+           75%        44.0     156.0
+           max       104.0     255.0
+
+Best single-threshold balanced accuracy using green_mean only: 0.843 (at threshold 30)
+
+Image size vs class:
+label      Negative  Positive  % Positive
+size                                     
+1280x960         45        54        55.0
+1388x1036         0       111       100.0
+2048x1536        31       264        89.0
+2287x1777        99       198        67.0
+2448x2048       100       212        68.0
+2560x1920       190       463        71.0
+3136x2352       113       169        60.0
+640x480           3        21        88.0
+
+File format vs class:
+label   Negative  Positive  % Positive
+format                                
+bmp          195       533        73.0
+jpg          222       496        69.0
+png          100       187        65.0
+tif           64       276        81.0

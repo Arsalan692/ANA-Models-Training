@@ -1,0 +1,5 @@
+Processed images : 2073
+Output sizes     : {'683x512': 1353, '612x512': 312, '659x512': 297, '686x512': 111}
+Upscaled (original shorter side < 512): 24
+Brightness change vs original (0-255 scale): mean 0.03, max 0.26
+Zip for Drive    : AIDA_processed.zip  (760 MB)

@@ -1,0 +1,65 @@
+Spreadsheet rows: 2080; dropped 0 empty rows -> 2080
+Name listed twice: kept 198_1.jpg, dropped duplicate row(s) 198_1.jpg
+Name listed twice: kept 198_2.jpg, dropped duplicate row(s) 198_2.jpg
+Name listed twice: kept 281_1.png, dropped duplicate row(s) 281_1.tif
+Name listed twice: kept 281_2.png, dropped duplicate row(s) 281_2.tif
+Name listed twice: kept 281_3.png, dropped duplicate row(s) 281_3.tif
+Name listed twice: kept 325_1.png, dropped duplicate row(s) 325_1.png
+Name listed twice: kept 325_2.png, dropped duplicate row(s) 325_2.png
+Name listed twice: kept 360_2.jpg, dropped duplicate row(s) 360_2.jpg
+Name listed twice: kept 361_2.jpg, dropped duplicate row(s) 361_2.jpg
+Name listed twice: kept 371_1.bmp, dropped duplicate row(s) 371_1.bmp
+Name listed twice: kept 438_1.jpg, dropped duplicate row(s) 438_1.jpg, 438_1.jpg
+Name listed twice: kept 453_5.tif, dropped duplicate row(s) 453_5.tif
+Filename typo fixed: '34_3.bpm' -> '34_3.bmp'
+Filename typo fixed: '39_1.bmp' -> '39_1.jpg'
+Filename typo fixed: '39_2.bmp' -> '39_2.jpg'
+Filename typo fixed: '39_3.bmp' -> '39_3.jpg'
+Filename typo fixed: '77_1.bmp' -> '77_1.png'
+Filename typo fixed: '77_2.bmp' -> '77_2.png'
+Filename typo fixed: '77_3.bmp' -> '77_3.png'
+Filename typo fixed: '104_1.tif' -> '104_1.bmp'
+Filename typo fixed: '104_2.tif' -> '104_2.bmp'
+Filename typo fixed: '104_3.tif' -> '104_3.bmp'
+Filename typo fixed: '104_4.tif' -> '104_4.bmp'
+Filename typo fixed: '104_5.tif' -> '104_5.bmp'
+Filename typo fixed: '112_1.bmp' -> '112_1.png'
+Filename typo fixed: '112_2.bmp' -> '112_2.png'
+Filename typo fixed: '112_3.bmp' -> '112_3.png'
+Filename typo fixed: '130_2.png' -> '130_2.jpg'
+Filename typo fixed: '135_2.png' -> '135_2.jpg'
+Filename typo fixed: '284_1.tif' -> '284_1.jpg'
+Filename typo fixed: '284_2.tif' -> '284_2.jpg'
+Filename typo fixed: '284_3.tif' -> '284_3.jpg'
+Missing on disk, dropped: '321_2.tif'
+Missing on disk, dropped: '321_3.tif'
+Filename typo fixed: '429_1.tif' -> '429_1.JPG'
+Filename typo fixed: '429_2.tif' -> '429_2.JPG'
+Filename typo fixed: '429_3.tif' -> '429_3.JPG'
+Missing on disk, dropped: '432_3.png'
+Missing on disk, dropped: '825_1.bmp'
+Missing on disk, dropped: '865_1.bmp'
+Filename typo fixed: '969_1.jpg' -> '969_1.png'
+Unlabelled file recovered with its well's label (Positive): '198_4.jpg'
+Unlabelled file recovered with its well's label (Positive): '198_5.jpg'
+Ignored (no label / other format kept): '281_1.tif'
+Ignored (no label / other format kept): '281_2.tif'
+Ignored (no label / other format kept): '281_3.tif'
+Ignored (no label / other format kept): '320_2.tif'
+Ignored (no label / other format kept): '320_3.tif'
+Unlabelled file recovered with its well's label (Positive): '325_4.png'
+Unlabelled file recovered with its well's label (Positive): '325_5.png'
+Unlabelled file recovered with its well's label (Positive): '360_3.jpg'
+Unlabelled file recovered with its well's label (Positive): '361_3.jpg'
+Unlabelled file recovered with its well's label (Positive): '372_1.bmp'
+Ignored (no label / other format kept): '433_3.png'
+Unlabelled file recovered with its well's label (Positive): '438_2.jpg'
+Unlabelled file recovered with its well's label (Positive): '438_3.jpg'
+Unlabelled file recovered with its well's label (Positive): '453_4.tif'
+Unlabelled file recovered with its well's label (Negative): '865_3.bmp'
+Ignored (no label / other format kept): 'desktop.ini'
+
+================ SUMMARY ================
+Images kept : 2073  (Positive 1492, Negative 581)
+Samples     : 998  (Positive 468, Negative 530)
+Images per sample: {1: 505, 2: 2, 3: 443, 4: 5, 5: 43}

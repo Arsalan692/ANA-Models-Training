@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------------------
+# AIDA_HEp-2 dataset -- the licence forbids redistribution, so nothing that
+# contains the images, the labels, or the dataset's own documents is tracked.
+# ---------------------------------------------------------------------------
+data/
+Docs/AIDA_HEp-2_GroundTruth.xlsx
+Docs/AIDA_HEp-2_Note.pdf
+Docs/AIDA_Article.pdf
+# EDA outputs that embed AIDA images or list every image with its label
+outputs/eda/sample_grid.png
+outputs/eda/image_stats.csv
+
+# Project documents with personal / team details (kept local)
+Docs/FYP-I_Project_Proposal_updated.docx
+Docs/ANA_Project_Context_Handoff.pdf
+
+# Trained models and other large binaries (stored on Google Drive)
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Editors, tools, OS
+.vscode/
+.idea/
+.claude/
+desktop.ini
+Thumbs.db
+.DS_Store
